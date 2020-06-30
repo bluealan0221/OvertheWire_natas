@@ -1,0 +1,11 @@
+natas0-1-2 : F12 can check some web imformation(html,js....)
+natas3: robots.txt 儲存了"關鍵字" 可以讓搜尋網頁優先讀取
+natas4: 要改訪問身分才能動 開始使用burp suite， 找到Referer 更改
+        *note: burp 要用proxy才能動
+natas5: Loggin = 0,1 可以看到狀態被更改
+natas6: 原始碼的include也可能洩漏秘密，"注意變數定植的地方"
+natas7: php的索引有可能出現漏洞(權限沒設好) xxx.php?page=一個路徑  <範例 ，可以嘗試
+natas8: 反轉func就好了
+natas9: 在DB搜尋的summit可以注意有沒有無條件輸入的func 可以利用 
+natas10: 每個指令特性可以當漏洞  若輸入沒有限定特殊符號 就可以用 .* ; | 等linux指令去找其他文件
+natas10 = U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
